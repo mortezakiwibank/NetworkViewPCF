@@ -35,3 +35,4 @@ This file is similar to the old version, but not identical! TODO: Add informatio
 
 # Troubleshooting
 1. Each user will need at least basic read access to all the entities that are loaded into the Network View.
+
